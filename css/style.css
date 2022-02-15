@@ -156,7 +156,7 @@ main {
     overflow-x: scroll;
     overscroll-behavior-x: contain;
     scroll-snap-type: x proximity;
-    /* gap: 20vh; */
+    gap: 15vh;
 }
 
 /************** PRIMER TABLA **************/
