@@ -1,2 +1,2 @@
-Sitio Web de Criptomonedas
+Sitio Web de Criptomonedas.
 
